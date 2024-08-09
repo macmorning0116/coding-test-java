@@ -1,3 +1,5 @@
+package BaekJoon;
+
 class Solution {
     public long solution(int r1, int r2) {
         int zeroLine = r2 - r1 + 1;

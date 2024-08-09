@@ -1,3 +1,5 @@
+package BaekJoon;
+
 import java.util.*;
 
 public class Baek_1260_인접리스트 {
